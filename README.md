@@ -50,3 +50,17 @@ npm run dev
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+<h3>Accueil et Todos</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/Reda-Yh/MERN-Stack-Goal-Management-Application/main/images/home.png" alt="Home Page" width="400">
+  <img src="https://raw.githubusercontent.com/Reda-Yh/MERN-Stack-Goal-Management-Application/main/images/todos.png" alt="Todos Page" width="400">
+</p>
+
+<h3>Sign Up et Sign In</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/Reda-Yh/MERN-Stack-Goal-Management-Application/main/images/signup.png" alt="Sign Up Page" width="400">
+  <img src="https://raw.githubusercontent.com/Reda-Yh/MERN-Stack-Goal-Management-Application/main/images/signin.png" alt="Sign In Page" width="400">
+</p>
+
+
+
