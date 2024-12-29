@@ -1,4 +1,4 @@
-# Application MERN Stack de Gestion d'Objectifs
+# MERN Stack Goal Management Application
 
 ## About
 Define your goals by signing up and logging in through a platform built with Express.js and MongoDB, and experience it through a frontend crafted with React.js.
